@@ -13,3 +13,4 @@ Projeto implementado durante curso Alura posto como desafio.
 - Foi utilizado a classe Scanner para fazer a leitura da opção que usuário digitou.
 <p></p>
 
+![img-menu-project](https://github.com/user-attachments/assets/ed8654c6-d4e5-432b-80e8-5eb2852f9db6)
